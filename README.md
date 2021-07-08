@@ -1,6 +1,12 @@
-### Hi there 👋
+
+## 🚀About me
+#### 🏫 I am an Electrical Engineering student at Queensland University Of Technology
+#### 🤖 I am currently taking a year off my academic studies to learn more about coding. After 6 months working as an Electrical Engineer Intern in ENTEC A&T, I wanted to learn more about coding. So I decided to take a Machine Learning Engineer Bootcamp  from CoderSchool
+#### 🔥 The bootcamp made me fall in love with AI and coding in general and would love to learn and contribute to more projects in Machine Learning.
 
 <!--
+
+
 **minhviet178/minhviet178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
