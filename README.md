@@ -2,7 +2,7 @@
 ## 🚀About me
 #### 🏫 I am an Electrical Engineering student at Queensland University Of Technology
 #### 🤖 I am currently taking a year off my academic studies to learn more about coding. After 6 months working as an Electrical Engineer Intern in ENTEC A&T, I wanted to learn more about coding. So I decided to take a Machine Learning Engineer Bootcamp  from CoderSchool
-#### 🔥 The bootcamp made me fall in love with AI and coding in general and would love to learn and contribute to more projects in Machine Learning.
+#### 🔥 The bootcamp made me fall in love with AI and Data Science and would love to learn and contribute to more projects in Machine Learning.
 
 ## ☎️ Find me at: 
 ##### 💼 LinkedIn: https://www.linkedin.com/in/minh-viet-truong-a0150720a/
