@@ -1,6 +1,6 @@
 
 ## 🚀About me
-#### 🏫 I am an Electrical Engineering student at Queensland University Of Technology
+#### 🏫 I am an Electrical Engineering student at Western Sydney University
 
 ## ☎️ Find me at: 
 ##### 💼 LinkedIn: https://www.linkedin.com/in/minh-viet-truong-a0150720a/
